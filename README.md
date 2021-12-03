@@ -1,2 +1,2 @@
 # crud-nestjs-angular
-This is a sample nestjs and angular project
+This is a sample project using NestJs and Angular 
